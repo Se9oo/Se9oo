@@ -22,5 +22,6 @@
   <br/>
   <img src="https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
   <img src="https://img.shields.io/badge/testing library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
+  <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
   <img src="https://img.shields.io/badge/msw-FF6A33?style=for-the-badge&logo=mockserviceworker&logoColor=white"/>
 </p>
